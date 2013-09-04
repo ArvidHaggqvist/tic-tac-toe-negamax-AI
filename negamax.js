@@ -1,5 +1,4 @@
 var bestMove = 0;
-//var maxdepth = 6;
 
 function negaMax(board, player, depth) {
 
